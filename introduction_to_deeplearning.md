@@ -183,7 +183,7 @@ anaconda를 통해 keras 만 설치해도 tensorflow도 설치가 된다
 
 
 
-
+v8 javascript engine - 5년전 부터 기조가 달라져서 노드js만 쓰던 사람들이 좀 더 튼튼해지고 있는 v8을 
 
 
 
